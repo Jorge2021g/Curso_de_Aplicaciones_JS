@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+}
+
+.titulo{
+margin-top: 30px;
+font-size: 3rem;
+
+}
+.flotante{
+    float: right;
+
+}
+body {
+  
+    color: #ffffff;
+    background-color: rgb(106, 106, 204);
+
+}
+
+.boton{
+    border: 4px solid;
+    display: inline-block;
+    text-align: left;
+    font-size: 20px;
+    border-radius: 5px;
+    border-color: rgb(231, 247, 12);
+    background-color: rgb(238, 10, 10);
+    cursor: pointer;
+    padding: 5px 10px;
+    margin-left: 150px;
+  
+
+}
+.boton{
+    border: 4px solid;
+    display: inline-block;
+    text-align: left;
+    font-size: 20px;
+    border-radius: 5px;
+    border-color: rgb(12, 173, 247);
+    background-color: rgb(196, 5, 123);
+    cursor: pointer;
+    padding: 5px 10px;
+    margin-left: 150px;
+  
+
+}
+
+a{
+    text-decoration:rgb(168, 168, 157);
+    color: white;
+}
+
+a:hover{
+    background-color: yellow;
+    color:white;
+    
+}
+
+.flotar_botones{
+ display: block;
+text-align: right;
+}
+
+article img {
+    float: left;
+}
+
+article div {
+    text-align: right;
+}
+
+h1 {
+    color: rgb(17, 12, 12);
+}
+
+.miimagendefondo {
+    background-image: url("../img/design2_image1.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    display: block;
+    WIDTH: 100vw;
+    height: 500px;
+
+}
+.milogo{
+    
+    background-image: url("../img/nysl_logo.png");
+    background-repeat: no-repeat;
+    background-size:contain;
+    float: left;
+    WIDTH: 250px;
+    height:250px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.subtitulo{
+    display: block;
+    text-align: center;
+    border: solid black ;
+    padding: 10px;
+}
+.imagen {
+    border: 15px solid green;
+    padding: 850px;
+    margin: 461px;
+  }
+  .miclasetexto {
+      margin-top: 30px;
+margin-left: 400px;
+
+  }
+ 
+  h3{
+      padding: 5px;
+  }
